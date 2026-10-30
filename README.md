@@ -1,3 +1,2 @@
 # DSC180A-Methodology-3
-Shant Guedekelian
-sguedekelian@ucsd.edu
+Shant Guedekelian and Jaden Vo
